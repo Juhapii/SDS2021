@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CourseApplication</string>
+    <string-array name="items">
+        <item>peach</item>
+        <item>tomato</item>
+        <item>potato</item>
+    </string-array>
+    <string-array name="prices">
+        <item>0.99</item>
+        <item>1</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Fresh</item>
+        <item>Red</item>
+        <item>Bad</item>
+    </string-array>
+</resources>
